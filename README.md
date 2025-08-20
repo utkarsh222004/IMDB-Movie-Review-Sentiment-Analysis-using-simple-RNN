@@ -45,3 +45,12 @@ Matplotlib & Seaborn
 📊 Results
 
 The models are evaluated based on accuracy and other metrics to identify the best-performing approach for sentiment classification.
+**NOTE: USE Requirenment.txt as follows{streamlit==1.36.0
+tensorflow==2.20.0
+numpy==1.26.4
+pandas==2.2.2
+scikit-learn==1.5.1
+nltk==3.8.1
+spacy==3.7.5
+matplotlib==3.9.1
+seaborn==0.13.2} for delopy on streamlit cloud.**
